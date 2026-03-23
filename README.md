@@ -219,3 +219,4 @@ Project Link: [https://github.com/jorgecarvel/oci_devops_project](https://github
 ---
 
 ⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub# p2_lab1
+# p2_lab1
